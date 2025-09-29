@@ -33,4 +33,8 @@ Execute the notebook cells sequentially to clean data, train the model, and gene
 Output:
 Confusion Matrix, Classification Report, ROC Curve (AUC).
 
+<img width="1072" height="992" alt="Image" src="https://github.com/user-attachments/assets/0e9ce895-ef0a-45cb-b644-65716e5a4468" />
+
+
+
 
